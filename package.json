@@ -1,0 +1,17 @@
+{
+  "name": "multi-domain-support-triage",
+  "version": "1.0.0",
+  "description": "Multi-Domain Support Triage System",
+  "main": "Backend.js",
+  "scripts": {
+    "start": "node Backend.js",
+    "dev": "node Backend.js"
+  },
+  "keywords": ["triage", "support", "multi-domain"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}
